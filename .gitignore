@@ -1,0 +1,11 @@
+# Godot import cache (regenerated on open)
+.godot/
+
+# Export artifacts
+build/
+*.apk
+*.aab
+*.idsig
+
+# macOS
+.DS_Store
